@@ -11,4 +11,5 @@ My Arch Linux setup with customized  DWM   suckless UI   and scripts
 - mod4 + p         : launck nsxiv picture browser
 - mod4 + shift + p : launch pulsemixer
 - mod4 + ]         : increase volume 
-- mod4 + [
+- mod4 + [         : decrease volume
+- 
