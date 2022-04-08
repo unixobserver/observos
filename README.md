@@ -1,5 +1,5 @@
 # ObservOS
-My Arch Linux setup with customized DWM suckless UI and scripts.
+My Arch Linux setup with customized DWM suckless UI and scripts. Awesome animations and black theme experience!!
 
 ## Installation
 
@@ -46,3 +46,4 @@ My Arch Linux setup with customized DWM suckless UI and scripts.
 - **mod4 + F5           :** mount usb flashdrive
 - **mod4 + F6           :** ffmpeg sreen + audio recording
 - **mod4 + F7           :** kill ffmpeg
+- **mod4 + w            :** launch web browser (install ublock-origin, dark-reader plugins and complete black chrome theme)
