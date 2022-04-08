@@ -1,5 +1,5 @@
 # ObservOS
-My Arch Linux setup with customized  DWM   suckless UI   and scripts
+My Arch Linux setup with customized DWM suckless UI and scripts.
 
 #Installation
 
