@@ -1,6 +1,17 @@
 # ObserveOS
 My Arch Linux setup with customized  DWM   suckless UI   and scripts
 
+#Installation
+
+1. You will need a minimal Arch Linux installation  
+
+2. As root run on teminal : `pacman -S xorg-server xorg-xwininfo xorg-xinit htop chromium opendoas mpv mpd mpc ncmpcpp newsboat pcmanfm lxappearance lmms xdotool gimp exa fff w3m imagemagick libnotify dunst man-db pulsemixer pamixer pipewire pipewire-pulse pipewire-jack xclip atool slock moreutils socat unrar unzip mediainfo dosfstools exfat-utils xdg-user-dirs feh` 
+
+6. yay -S oksh nsxiv libxft-bgra
+
+
+
+
 ## Basic Shortcuts
 
 - mod4 + enter        : launch terminal
