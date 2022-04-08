@@ -1,0 +1,9 @@
+As Root #
+
+1. Put Spleen fonts on /usr/share/kbd/consolefonts
+2. Put vconsole.conf on /etc and overwrite default vconsole.conf
+3. vi /etc/mkinitcpio.conf and add consolefont on HOOKS=( base consolefont fsck ...)
+4. mkinitcpio -P 
+
+
+
