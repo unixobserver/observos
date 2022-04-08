@@ -11,9 +11,10 @@ My Arch Linux setup with customized DWM suckless UI and scripts.
 . Install as normal user the following apps: `yay -S oksh nsxiv libxft-bgra pokemon-colorscripts-git`
 5. Run `chsh -s /usr/bin/oksh`
 6. Clone ObservOS repo to your home dir : `git clone https://github.com/unixobserver/observos.git`
-6. `cd ~/observos/.local/suckless` and `doas make clean install`  inside on each folder (dwm, dmenu, st, dwmblocks)
-6. Copy all files from ~/observos to your home directory ~/
-9. Enjoy!!
+7. `cd ~/observos/.local/suckless` and `doas make clean install`  inside on each folder (dwm, dmenu, st, dwmblocks)
+8. Copy all files from ~/observos to your home directory ~/
+9. Run `chmod +x ~/.local/bin/*`
+10. Enjoy!!
 
 
 ## Basic Shortcuts
