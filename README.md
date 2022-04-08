@@ -9,10 +9,11 @@ My Arch Linux setup with customized  DWM   suckless UI   and scripts
 3. vim /etc/doas.conf add the following line `permit persist username keepenv  as root` and save it. Don't forget to change the word username with your user. 
 4. Install Yay for the Aur repo: ` pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si`
 . Install as normal user the following apps: `yay -S oksh nsxiv libxft-bgra pokemon-colorscripts-git`
-5. Clone ObservOS repo to your home dir : `git clone https://github.com/unixobserver/observos.git`
+5. Run `chsh -s /usr/bin/oksh`
+6. Clone ObservOS repo to your home dir : `git clone https://github.com/unixobserver/observos.git`
 6. `cd ~/observos/.local/suckless` and `doas make clean install`  inside on each folder (dwm, dmenu, st, dwmblocks)
-7. Copy all files from ~/observos to your home directory ~/
-8. Enjoy!!
+6. Copy all files from ~/observos to your home directory ~/
+9. Enjoy!!
 
 
 ## Basic Shortcuts
